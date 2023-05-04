@@ -1,5 +1,5 @@
 ﻿# ransomwareDetection
- # BASIC REQUIREMENT
+ ## BASIC REQUIREMENT
  1. Install python3
  ## Detecting ransomware is a complex task that requires a variety of techniques, including behavioral analysis and signature-based detection.
  ## This example uses a few basic techniques to detect potential ransomware activity:
